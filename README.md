@@ -1,1 +1,1 @@
-# DS-report2
+# This is a code template for classifiers
